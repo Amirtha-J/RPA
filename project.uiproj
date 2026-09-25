@@ -1,0 +1,6 @@
+{
+  "Name": "Ex2",
+  "ProjectType": "Process",
+  "Description": "Get 2 double values as input, calculate and display their sum",
+  "MainFile": "Main.xaml"
+}
